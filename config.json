@@ -1,0 +1,10 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/MEANUserLogin",
+    "apiUrl": "http://localhost:3013/api",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+    "UnconfirmedUser":0,
+    "chaincodeUrl":"http://localhost:7050/",
+    "chaincode_id":"voteSystemCC1",
+    "channel_name":"mychannel",
+    "keyStorePath": "/userLogin/keyStore"
+}
